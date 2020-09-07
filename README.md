@@ -7,7 +7,7 @@ While there is a dedicated Python package for connecting to the Quandl API, I wo
 
 Finally, apart from the requests package, I did not use any third party Python packages, such as pandas, and instead focus on what's available in the Python like lists and dictionaries.
 
-These are your tasks for this mini project:
+These are my tasks for this mini project:
 
 * Collect data from the Franfurt Stock Exchange, for the ticker AFX_X, for the whole year 2017 (keep in mind that the date format is YYYY-MM-DD).
 * Convert the returned JSON object into a Python dictionary.
